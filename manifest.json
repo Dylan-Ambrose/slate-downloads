@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.22.0",
+  "version": "0.22.1",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.22.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.22.1/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
     "File paths in notes are coloured and open in File Explorer; drag a file in to add its path",
     "A link on its own line shows as a card, or a Spotify or YouTube player",
-    "Your own dropdowns, the note's actions down the side, autosave in Settings, and a wider page"
+    "Your own dropdowns, the note's actions down the side, autosave in Settings, a wider page, and a way back when every tab is closed"
   ],
   "listed": false
 }

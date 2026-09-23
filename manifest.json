@@ -1,16 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.21.0",
+  "version": "0.21.1",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.21.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.21.1/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
     "A new login page: sign in with your email, Google or GitHub",
-    "One account across every Averic app, so signing in here signs you in everywhere"
+    "One account across every Averic app, so signing in here signs you in everywhere",
+    "While it is open, the login page is the only thing on screen"
   ],
   "listed": false
 }

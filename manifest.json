@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.18.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.19.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Notes: tabs, favourites and a description under the title",
-    "A section view, a right-click menu and a word count",
-    "Double key presses fixed as you type, with a switch in Settings"
+    "Notes: drag blocks by their handle, and type / for any block",
+    "Sync straight from the sidebar",
+    "Fixes a note moving folder when edited, and a settings file that two saves at once could damage"
   ],
   "listed": false
 }

@@ -1,17 +1,16 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.24.4",
+  "version": "0.25.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.24.4/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.25.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Signing in with Google or GitHub can be cancelled, so closing the browser no longer leaves the page stuck",
-    "Remember me: untick it and closing the app signs you out; ticked, your login is offered next time, encrypted on this computer",
-    "The sign-in page shows each launch while you are signed out; Not now skips it"
+    "Slate opens full size straight away, with a launch splash like the other apps",
+    "The taskbar icon is white, and the sidebar's Open section folds away"
   ],
   "listed": false
 }

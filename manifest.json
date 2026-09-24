@@ -1,15 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.25.1",
+  "version": "0.26.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.25.1/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.26.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Figures now use the same number font as Ergo and Guidance"
+    "An assistant, on the right (Ctrl+J): ask about your notes, money and apps; it proposes money changes for your Confirm",
+    "Pick Claude Code, Codex or Gemini in Settings, Assistant, and connect it with its own sign-in",
+    "Tell it who you are in Settings, and correct it with Not like that? under a reply; it remembers"
   ],
   "listed": false
 }

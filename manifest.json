@@ -1,17 +1,16 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.24.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.24.1/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Notes: Obsidian-style tabs, and the arrow beside a heading folds its section away",
-    "A checkbox filter in the note toolbar hides ticked or unticked boxes",
-    "The sign-in page is a quarter larger"
+    "In Notes, the page's outline now rises round the tab you have open, the others sitting outside it",
+    "A new picture on the sign-in page"
   ],
   "listed": false
 }

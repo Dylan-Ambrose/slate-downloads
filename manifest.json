@@ -1,16 +1,15 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.24.2",
+  "version": "0.24.3",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.24.2/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.24.3/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "A new picture on the sign-in page",
-    "If you switched on anonymous usage sharing, it now actually reaches us. Off unless you turn it on"
+    "If you switched on anonymous crash reports, a crash now actually reaches us so it can be fixed. Off unless you turn it on"
   ],
   "listed": false
 }

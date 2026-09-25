@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.30.0",
+  "version": "0.31.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.30.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.31.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "A new look: light by default, calm cards and one clear line of figures on every page",
-    "Money gains four charts: spend so far, by month, the next nine weeks and where each month goes",
-    "Seven accents in Settings, Appearance, and the assistant's message box works like Claude's"
+    "Show the assistant a picture: paste it, drop it, or press +",
+    "Planned and logged payments show their logos, and each app on Apps shows its own mark",
+    "Settings never shows a saved key, and About checks for updates"
   ],
   "listed": false
 }

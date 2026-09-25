@@ -1,16 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.29.0",
+  "version": "0.29.1",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.29.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.29.1/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Tell the assistant your name and tick what it should specialise in, in Settings, Assistant",
-    "Switching settings tabs now opens each one at the top"
+    "The taskbar preview and Alt Tab show Slate's name and icon",
+    "Signing in from Settings no longer leaves the title bar dimmed",
+    "Menus are flat, the note's More popup has a close button, and the section list stays clear of the assistant"
   ],
   "listed": false
 }

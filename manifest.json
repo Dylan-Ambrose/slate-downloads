@@ -1,16 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.26.1",
+  "version": "0.27.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.26.1/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.27.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "The assistant can now read your vault and instructions, the same context your Claude Code sessions start from",
-    "It can no longer run commands or open files outside Slate: web search and Slate's own tools only"
+    "A new Suggested page: each morning your assistant prepares 5 to 10 tasks, a few directions worth your time, and the watch-outs, weakest point first",
+    "Switch modules on and off, reorder them, and save the arrangement as a layout",
+    "The daily plan runs once a day on launch and can be switched off in Settings, Assistant"
   ],
   "listed": false
 }

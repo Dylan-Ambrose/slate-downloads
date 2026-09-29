@@ -1,17 +1,18 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.34.0",
+  "version": "0.35.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.34.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.35.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "The sidebar button sits on the sidebar's edge, where its rows end",
-    "Right-click any box you type in for Cut, Copy, Paste and Select all",
-    "Hover tooltips match the right-click menu"
+    "The new Slate icon, the rounded S",
+    "The assistant has a face that changes with what it is doing",
+    "Open a note in its own small window from the note's ... menu or Ctrl+Shift+N",
+    "A profile picture beside the window buttons, set in Settings, Account"
   ],
   "listed": false
 }

@@ -1,18 +1,18 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.32.0",
+  "version": "0.32.1",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.32.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.32.1/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
+    "Hiding the heading rail now works, from Settings or a note's ... menu",
     "Suggested gives the steps for each task under How",
     "Your notes move to Documents, Averic, Slate, Notes, where they are easy to find",
-    "Click the model name under the message box to switch model",
-    "Hide the heading rail in Settings or a note's ... menu"
+    "Click the model name under the message box to switch model"
   ],
   "listed": false
 }

@@ -1,20 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.33.0",
+  "version": "0.34.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.33.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.34.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Drag note tabs to put them in any order",
-    "Right-click and select text on Coverage, Suggested and in the chat, with Add to chat",
-    "Logos for Apple Developer, company registration and Coddy, and logos that no longer go missing",
-    "Round checkboxes in notes, and text that fades softly at the top and bottom",
-    "Suggested shows what it is doing while it prepares, and links the notes it names",
-    "Drag the assistant wider or narrower, and name it in a short first-time setup"
+    "The sidebar button sits on the sidebar's edge, where its rows end",
+    "Right-click any box you type in for Cut, Copy, Paste and Select all",
+    "Hover tooltips match the right-click menu"
   ],
   "listed": false
 }

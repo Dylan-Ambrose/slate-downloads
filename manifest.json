@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.37.0",
+  "version": "0.38.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.37.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.38.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "The Slate mark in the top left is the sidebar button now: hover it to see the panel icon",
-    "The Slate Notes window stays on top of other windows; the pin by minimise turns that off",
-    "The Slate Notes page reaches the window's edges"
+    "Slate Notes is its own program now: open it from the Start menu, even with Slate closed",
+    "A note saved in Slate or Slate Notes shows up in the other within a second, never over unsaved typing",
+    "Both programs can save at the same moment without losing either change"
   ],
   "listed": false
 }

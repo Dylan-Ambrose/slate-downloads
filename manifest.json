@@ -13,5 +13,6 @@
     "Ergo and its snippet show the change within a second, and so does Slate when you change it in Ergo",
     "A running timer counts down on its card"
   ],
-  "listed": false
+  "listed": false,
+  "audience": "dev"
 }

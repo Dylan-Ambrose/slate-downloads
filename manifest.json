@@ -1,16 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.41.4",
+  "version": "0.42.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.41.4/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.42.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Undo and Redo buttons beside the open note: text deleted by accident comes back, even after it was saved",
-    "Overview and Apps wrap their columns in a small window instead of scrolling sideways"
+    "Coverage is now Company: the company's details as fields, and the deadlines they set worked out for you",
+    "The checklist under them is a real note: headings that fold, round ticks, block handles and the / menu",
+    "The sidebar in groups, and quick actions under the day on Overview"
   ],
   "listed": false,
   "audience": "dev"

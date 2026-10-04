@@ -1,17 +1,16 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.40.0",
+  "version": "0.41.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.40.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.41.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Slate Notes has a menu in its bar: open any Markdown file, save as anywhere, pick where new notes go, formatting and the rail",
-    "The block handles in Slate Notes no longer touch the window's edge",
-    "Slate Notes can now be installed on its own from Settings, About, and a note retitled only by case is no longer lost"
+    "Three accents: Discovery, Averic and Horizon. A removed one you had picked becomes Averic",
+    "After signing up, Slate tells you which inbox to check, with a button to send the email again"
   ],
   "listed": false,
   "audience": "dev"

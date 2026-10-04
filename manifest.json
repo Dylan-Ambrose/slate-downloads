@@ -1,16 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.41.1",
+  "version": "0.41.2",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.41.1/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.41.2/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Your Averic sign-in no longer drops when two apps save it at the same moment",
-    "Overview leaves Ergo's day alone when Ergo keeps it in a newer format, and says to update"
+    "Every Settings field and the window buttons are named for screen readers",
+    "Yearly money blocks are readable, and the note dialog's dropdowns look like its fields",
+    "Money no longer scrolls sideways in a smaller window"
   ],
   "listed": false,
   "audience": "dev"

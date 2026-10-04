@@ -1,17 +1,16 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.45.0",
+  "version": "0.46.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.45.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.46.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Earlier versions of each note: the text a save is about to replace is kept on this computer",
-    "This note, Earlier versions lists them by time with a preview; Restore puts one back and Undo takes it away again",
-    "Closing tabs quickly no longer brings one back"
+    "Slate Notes has its own light and dark switch in its bar; it starts on Slate's theme and keeps its own choice",
+    "Press the Slate mark in Slate Notes' corner to open Slate, or bring it forward when it is already open"
   ],
   "listed": false,
   "audience": "dev"

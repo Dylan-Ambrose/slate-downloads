@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.38.0",
+  "version": "0.39.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.38.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.39.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Slate Notes is its own program now: open it from the Start menu, even with Slate closed",
-    "A note saved in Slate or Slate Notes shows up in the other within a second, never over unsaved typing",
-    "Both programs can save at the same moment without losing either change"
+    "Tick an Ergo task done, or start and pause its timer, straight from Overview",
+    "Ergo and its snippet show the change within a second, and so does Slate when you change it in Ergo",
+    "A running timer counts down on its card"
   ],
   "listed": false
 }

@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.43.0",
+  "version": "0.44.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.43.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.44.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Overview opens with your morning: today's learning routine, what to build next, and the day's direction in business, legal, marketing and features",
-    "Tick anything there and it is ticked where it lives; whatever is not done carries over to tomorrow",
-    "Slate Notes is no longer inside Slate's installer: install it from Settings, About"
+    "Tables in notes: a table reads as a grid, and you type straight into its cells",
+    "Tab moves between cells and Enter adds a row; the six dots add or delete rows and columns and align a column",
+    "Add one from the / menu, the right-click menu or the six dots; the file stays plain Markdown"
   ],
   "listed": false,
   "audience": "dev"

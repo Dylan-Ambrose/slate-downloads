@@ -1,16 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.46.1",
+  "version": "0.47.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.46.1/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.47.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Tab and Shift+Tab stay inside Settings, the login page and every dialog instead of reaching the page behind",
-    "Closing Settings or the login page puts you back on the button that opened it"
+    "Slate updates itself now: when a new version is out, a button appears at the foot of the sidebar; click it to download, then Restart to update",
+    "Settings, About, Check for updates shows the same button",
+    "Signing in to Slate keeps the plan your account already has"
   ],
   "listed": false,
   "audience": "dev"

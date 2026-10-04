@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.44.0",
+  "version": "0.45.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.44.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.45.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Tables in notes: a table reads as a grid, and you type straight into its cells",
-    "Tab moves between cells and Enter adds a row; the six dots add or delete rows and columns and align a column",
-    "Add one from the / menu, the right-click menu or the six dots; the file stays plain Markdown"
+    "Earlier versions of each note: the text a save is about to replace is kept on this computer",
+    "This note, Earlier versions lists them by time with a preview; Restore puts one back and Undo takes it away again",
+    "Closing tabs quickly no longer brings one back"
   ],
   "listed": false,
   "audience": "dev"

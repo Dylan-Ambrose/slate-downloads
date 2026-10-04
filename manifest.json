@@ -1,17 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.42.0",
+  "version": "0.43.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.42.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.43.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Coverage is now Company: the company's details as fields, and the deadlines they set worked out for you",
-    "The checklist under them is a real note: headings that fold, round ticks, block handles and the / menu",
-    "The sidebar in groups, and quick actions under the day on Overview"
+    "Overview opens with your morning: today's learning routine, what to build next, and the day's direction in business, legal, marketing and features",
+    "Tick anything there and it is ticked where it lives; whatever is not done carries over to tomorrow",
+    "Slate Notes is no longer inside Slate's installer: install it from Settings, About"
   ],
   "listed": false,
   "audience": "dev"

@@ -1,16 +1,18 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.48.0",
+  "version": "0.49.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.48.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.49.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Slate Notes has a Sync button now",
-    "Long tooltips stay inside the window"
+    "Deleted notes stay deleted: sync no longer brings them back",
+    "Recently deleted under the notes list, with Restore, kept 30 days",
+    "Slate syncs by itself: at launch, every 5 minutes and when the window comes back",
+    "Linked from under each note lists the notes linking to it"
   ],
   "listed": false,
   "audience": "dev"

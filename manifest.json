@@ -1,16 +1,18 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.51.0",
+  "version": "0.53.3",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.51.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.53.3/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Delete on each row of the notes list, with the note kept in Recently deleted for 30 days",
-    "The Integrations keys sync between your machines, so a key typed on one works on the other"
+    "Notes feel like Notion: toggles, a grouped / menu with previews, comments in the margin, an icon and cover on each note, and the bars hide while you type",
+    "Recently deleted has Delete for good on each note and an Empty button; a note with words but no title is kept as Untitled instead of lost",
+    "Slate Notes opens on your notes list with a big New note button, and Space on an empty line opens the assistant box",
+    "The Add icon and Add cover row sits in the space above the title, so the title stays level with the + and an empty note no longer shows a scrollbar"
   ],
   "listed": false,
   "audience": "dev",

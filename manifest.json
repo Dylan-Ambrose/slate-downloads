@@ -1,18 +1,17 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.57.0",
+  "version": "0.57.1",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.57.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.57.1/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Slate 0.57.0",
-    "New Roadmap under Work: type what you want to learn and Claude plans it as tracks, topics and items.",
-    "Tick items as you go, see what is next, and every link is checked before you see it.",
-    "Roadmaps sync between your computers."
+    "Slate 0.57.1",
+    "Boards and roadmaps now sync about half a minute after you change them.",
+    "A board or roadmap too big to sync no longer stops everything else syncing; Settings names it."
   ],
   "listed": false,
   "audience": "dev",

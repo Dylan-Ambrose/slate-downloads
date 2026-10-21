@@ -1,18 +1,18 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.55.0",
+  "version": "0.56.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.55.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.56.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "Slate 0.55.0",
-    "Settings, Account: connect Apple, Google or GitHub, and delete your Averic account if you ever want to.",
-    "Theme can follow your computer's light or dark setting.",
-    "Forgot your password? Slate can now email you a sign-in code."
+    "Slate 0.56.0",
+    "New Workspace under Work: an infinite canvas for boards, note cards, pictures, comments, shapes and drawing.",
+    "Join anything with arrows that follow as you move things, and open boards inside boards.",
+    "Everything syncs between your computers."
   ],
   "listed": false,
   "audience": "dev",

@@ -17,8 +17,8 @@
   "listed": false,
   "audience": "dev",
   "mac": {
-    "version": "0.53.4",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.53.4/Slate.dmg",
+    "version": "0.53.5",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.53.5/Slate.dmg",
     "install_check_path": "/Applications/Slate.app"
   }
 }

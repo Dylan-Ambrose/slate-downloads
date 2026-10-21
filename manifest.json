@@ -1,17 +1,18 @@
 {
   "id": "slate",
   "name": "Slate",
-  "version": "0.54.0",
+  "version": "0.55.0",
   "tag": "Work",
   "description": "The workspace: notes, subscriptions and product metrics in one place.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.54.0/Slate-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.55.0/Slate-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Slate\\Slate.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-downloads/main/icon.png",
   "previous_names": [],
   "notes": [
-    "The Spent so far graph follows your real totals, and hovering a day shows what you paid",
-    "Log a payment, subscription, planned buy or income in any currency; totals are counted in pounds",
-    "Typing in a note gives you the whole window, with just the sidebar beside it"
+    "Slate 0.55.0",
+    "Settings, Account: connect Apple, Google or GitHub, and delete your Averic account if you ever want to.",
+    "Theme can follow your computer's light or dark setting.",
+    "Forgot your password? Slate can now email you a sign-in code."
   ],
   "listed": false,
   "audience": "dev",
